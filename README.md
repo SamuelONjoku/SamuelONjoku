@@ -44,6 +44,6 @@ I intend to use this GitHub profile to document computational explorations, scie
 
 ## Academic Profile
 
-- **ORCID:** Add your ORCID public profile link here.
-- **LinkedIn:** Coming soon.
+- **ORCID:** https://orcid.org/my-orcid?orcid=0000-0002-0149-6269
+- **LinkedIn:** linkedin.com/in/samuel-njoku-3ab519273 
 - **Personal Website:** Coming soon.
