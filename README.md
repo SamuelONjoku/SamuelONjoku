@@ -2,7 +2,7 @@
 
 ### Independent Researcher in Theoretical Chemistry
 
-Welcome to my GitHub profile. I am an independent researcher with a Bachelor's degree (B.Sc.), and Master's degree (M.S.) in Chemistry, completed with distinction honors.
+Welcome to my GitHub profile. I am an independent researcher with a Bachelor's degree (B.Sc.), and Master's degree (M.S.) in Chemistry, completed with distinction honor.
 
 My academic and research interests focus on theoretical chemistry, quantum dynamics, nonequilibrium physics, open quantum systems, and quantum computing.
 
